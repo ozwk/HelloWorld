@@ -8,5 +8,6 @@ namespace GitHelloWorld
 {
     public class Class1
     {
+        public static string Text { get { return "Hello World!"; } }
     }
 }
